@@ -1,0 +1,340 @@
+/* WHITE COLOR */
+body, a,
+a:hover,
+a:focus, .text-light a, .text-dark p, .text-light, .text-dark, .a-btn, .a-btn-2, .top-menu .logo span, .right-menu .logo span, .header_trans-fixed.header_top_bg .logo span, .header_trans-fixed.header_top_bg.open .logo span, #topmenu ul li a, .header_trans-fixed.header_top_bg #topmenu ul li a, .header_trans-fixed.header_top_bg.open #topmenu ul li a, .mob-nav, .header_trans-fixed .mob-nav i, .header_trans-fixed.open .mob-nav i, .napoli-top-social .social-icon, .header_trans-fixed .napoli-top-social .social-icon, .right-menu #topmenu .napoli-top-social .social li a, .header_trans-fixed .right-menu #topmenu .napoli-top-social .social li a, .top-banner .subtitle, .top-banner .title, .top-banner.center_content .title, .top-banner .descr, .banner-gallery .content-wrap .title, .about-section .title, .about-section .a-btn-2, .gallery-item .info-content h5, .modern .gallery-item .info-content h5, .fullwidth .gallery-item .info-content h5, .item-overlay > h5, .classic .item-overlay h5, .portfolio.classic.big .portfolio-title, .portfolio.big_gap .portfolio-title, .portfolio.masonry .item-portfolio-content .portfolio-title, .portfolio.grid .item-portfolio-content .portfolio-title, .single-proof_gallery .single-content > .title,
+.single-proof_gallery .title, .single-proof_gallery .pixproof-data .grid__item .a-btn-2, .single-proof_gallery #pixproof_gallery .proof-photo .meta__action.select-action:before, .single-proof_gallery #pixproof_gallery .proof-photo .proof-photo__bg .proof-photo__id, .dgwt-jg-gallery.justified-gallery .dgwt-jg-caption span, .lg .lg-sub-html h4, .filter ul li.active, .team-member .social .wrap a, .team-member .info .title, .team-member.fullheight .info .title, .team-member.fullheight .info .description, .all-posts-descr h5, .post-box .text h6, .post-box .text span, .post_list .post-box .text .post-box-title, .simple .post-box .text .post-box-title, .services .content .title, .post-content h5, .post-content .date, .single-post .title, .single-post .single-content blockquote p, .recent-post-single .recent-title, .sm-wrap-post .content .title, .sm-wrap-post .content .post-date .date, .contact-info .details h5, .contact-form .title, .wpcf7 form input:focus,
+form.wpcf7-form input:focus,
+form.wpcf7-form textarea:focus, .wpcf7 form input[type="submit"],
+form.wpcf7-form #submit, #footer .copyright a, .widget_search input[type="text"], .sidebar-item ul li, .sidebar-item ul li a, .sidebar-item select, .protected-page .protected-title, .protected-page input[type="password"]:focus, .protected-page input[type="submit"], .banner-slider-wrap .title, .banner-slider-wrap .subtitle, .banner-slider-wrap .descr, .banner-slider-wrap .swiper-arrow-right, .comments .comment-reply-title, .comments .content .comment-reply-link:hover, .comments .person .author, .comments-title,
+.comments-title span, #contactform h3,
+.comments-form h3, #contactform textarea:focus,
+#contactform input:focus,
+.comments-form textarea:focus,
+.comments-form input:focus, #contactform #submit,
+.comments-form #submit, .about-details .content .title,
+.simple-details .content .title, .about-details .content .text blockquote p, .titles .title, .insta-box .insta-box-follow, .insta-box .insta-box-follow a:hover, .post-nav a,
+.pages,
+.page-numbers:not(.next):not(.prev), .post-nav a:hover,
+.post-nav a:focus,
+.page-numbers:hover,
+.page-numbers:focus, .next.page-numbers,
+.prev.page-numbers, .next.page-numbers:hover,
+.prev.page-numbers:hover, .post-nav .pages,
+.post-nav .current,
+.pager-pagination .pages,
+.pager-pagination .current, .woocommerce .napoli_product_detail div.product p.price ins,
+.woocommerce .single-product div.product p.price ins,
+.woocommerce .napoli_product_detail div.product span.price ins,
+.woocommerce .single-product div.product span.price ins,
+.woocommerce ul.products.default li.product .price ins,
+.napoli_cart.shop_table ul .cart_item ul .product-price ins,
+.napoli_cart.shop_table ul .cart_item ul .product-subtotal ins,
+#topmenu .napoli_mini_cart .product_list_widget .mini_cart_item .mini-cart-data .mini_cart_item_price ins,
+.woocommerce table.shop_table .cart_item .product-total ins, .woocommerce-page.woocommerce-cart .woocommerce input.button,
+.woocommerce-page.woocommerce-checkout .woocommerce input.button, .woocommerce-page.woocommerce-cart a.button,
+.woocommerce-page.woocommerce-checkout a.button,
+.woocommerce-page.woocommerce a.button,
+.woocommerce-page.woocommerce button.button.alt,
+.woocommerce button.button.alt,
+a.button.checkout, .woocommerce ul.products li.product .napoli-prod-list-image .napoli-add-to-cart a,
+.woocommerce-page.woocommerce .woocommerce-message a.button, .woocommerce .single-product .star-rating,
+.woocommerce .napoli_product_detail .star-rating, .woocommerce .napoli_images span.onsale,
+.woocommerce ul.products li.product .napoli-prod-list-image .onsale, .woocommerce .quantity .qty, .woocommerce .woocommerce-message .showcoupon,
+.woocommerce .woocommerce-message a,
+.woocommerce .woocommerce-info .showcoupon,
+.woocommerce .woocommerce-info .showlogin, .single-product .product .summary .product_title,
+.napoli_product_detail .product .summary .product_title, .single-product .product .summary .cart .variations .label label,
+.napoli_product_detail .product .summary .cart .variations .label label, .single-product .product .summary .cart .variations .value ul li label,
+.napoli_product_detail .product .summary .cart .variations .value ul li label, .single-product div.product .woocommerce-tabs ul.tabs.wc-tabs li.active a,
+.napoli_product_detail div.product .woocommerce-tabs ul.tabs.wc-tabs li.active a, .single-product div.product .woocommerce-tabs .woocommerce-Tabs-panel h2,
+.napoli_product_detail div.product .woocommerce-tabs .woocommerce-Tabs-panel h2, .single-product .product #reviews #comments .commentlist .comment .comment-text .meta,
+.napoli_product_detail .product #reviews #comments .commentlist .comment .comment-text .meta, .single-product .product .woocommerce-Reviews #review_form_wrapper .comment-reply-title,
+.napoli_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-reply-title, .single-product .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit,
+.napoli_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit, .single-product div.product .up-sells h2,
+.napoli_product_detail div.product .up-sells h2,
+.single-product .product .related.products h2,
+.napoli_product_detail .product .related.products h2, .woocommerce ul.products li.product h3, .mini-cart-wrapper .napoli-shop-icon .cart-contents-count, #topmenu .napoli_mini_cart .product_list_widget .empty, #topmenu .napoli_mini_cart .product_list_widget .mini_cart_item .mini-cart-data .mini_cart_item_name, .napoli_cart.shop_table .heading li, .napoli_cart.shop_table ul .cart_item ul .product-name a, .napoli_cart.shop_table ul .cart_item ul .product-name .variation dt, .napoli_cart.shop_table .complement-cart .coupon .input-text:focus, .napoli-cart-collaterals .cart_totals h2, .woocommerce form.checkout h3, .woocommerce form.login .form-row label,
+.woocommerce form.checkout .form-row label, .woocommerce form.login .form-row input:focus,
+.woocommerce form.login .form-row textarea:focus,
+.woocommerce form.checkout .form-row input:focus,
+.woocommerce form.checkout .form-row textarea:focus,
+.woocommerce form.checkout_coupon .form-row input.input-text:focus, .woocommerce form.login .lost_password a, .select2-drop-active, .select2-results li.select2-highlighted, .woocommerce table.shop_table thead .product-name,
+.woocommerce table.shop_table thead .product-total, .woocommerce table.shop_table .cart_item .product-name, .woocommerce table.shop_table .cart_item .product-name .variation dt, .woocommerce-checkout-review-order #payment div.payment_box, .napoli-sound-btn:before, .portfolio-single-content .portfolio-title, .portfolio-single-content .napoli-portfolio-footer-line .portfolio-client .client-title,
+.portfolio-single-content .napoli-portfolio-footer-line .portfolio-jop-type .title-job-type,
+.portfolio-single-content .napoli-portfolio-footer-line .title-date, .iframe-video-title, .pricing-info .title, .coming-page-wrapper .title, .swipe-btn:before, .scroll-btn:before, .skill-wrapper .main-title, .flipto:before {
+  color: #ffffff;
+}
+
+.bottom-line:after, .black, .highlight, .a-btn:hover, .a-btn-2:hover, .single-proof_gallery .pixproof-data .grid__item .a-btn-2:hover, .wpcf7 form input[type="submit"]:hover,
+form.wpcf7-form #submit:hover, .widget_search input[type="submit"], .protected-page input[type="submit"]:hover, #contactform #submit:hover,
+.comments-form #submit:hover, .woocommerce-page.woocommerce-cart .woocommerce input.button:hover,
+.woocommerce-page.woocommerce-checkout .woocommerce input.button:hover, .woocommerce-page.woocommerce-cart a.button:hover,
+.woocommerce-page.woocommerce-checkout a.button:hover,
+.woocommerce-page.woocommerce a.button:hover,
+.woocommerce-page.woocommerce button.button.alt:hover,
+.woocommerce button.button.alt:hover,
+a.button.checkout:hover, .woocommerce ul.products li.product .napoli-prod-list-image .napoli-add-to-cart a:hover,
+.woocommerce-page.woocommerce .woocommerce-message a.button:hover, .single-product .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit:hover,
+.napoli_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit:hover {
+  background-color: #fff;
+}
+
+.a-btn:hover, .a-btn-2:hover, .single-proof_gallery .pixproof-data .grid__item .a-btn-2:hover, .wpcf7 form input[type="submit"]:hover,
+form.wpcf7-form #submit:hover, .widget_search input[type="text"], .widget_search input[type="submit"], .widget_tag_cloud .tagcloud a, .sidebar-item h5, .sidebar-item input, .protected-page input[type="submit"]:hover, #contactform #submit:hover,
+.comments-form #submit:hover, .woocommerce-page.woocommerce-cart .woocommerce input.button:hover,
+.woocommerce-page.woocommerce-checkout .woocommerce input.button:hover, .woocommerce-page.woocommerce-cart a.button:hover,
+.woocommerce-page.woocommerce-checkout a.button:hover,
+.woocommerce-page.woocommerce a.button:hover,
+.woocommerce-page.woocommerce button.button.alt:hover,
+.woocommerce button.button.alt:hover,
+a.button.checkout:hover, .woocommerce ul.products li.product .napoli-prod-list-image .napoli-add-to-cart a:hover,
+.woocommerce-page.woocommerce .woocommerce-message a.button:hover, .single-product .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit:hover,
+.napoli_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit:hover {
+  border-color: #fff;
+}
+
+/* LIGHT WHITE COLOR */
+.a-btn, .a-btn-2, .single-proof_gallery .pixproof-data .grid__item .a-btn-2, .wpcf7 form input[type="submit"],
+form.wpcf7-form #submit, .protected-page input[type="submit"], #contactform #submit,
+.comments-form #submit, .woocommerce-page.woocommerce-cart .woocommerce input.button,
+.woocommerce-page.woocommerce-checkout .woocommerce input.button, .woocommerce-page.woocommerce-cart a.button,
+.woocommerce-page.woocommerce-checkout a.button,
+.woocommerce-page.woocommerce a.button,
+.woocommerce-page.woocommerce button.button.alt,
+.woocommerce button.button.alt,
+a.button.checkout, .woocommerce ul.products li.product .napoli-prod-list-image .napoli-add-to-cart a,
+.woocommerce-page.woocommerce .woocommerce-message a.button, .single-product .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit,
+.napoli_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit {
+  border-color: rgba(255, 255, 255, 0.5);
+}
+
+/* DARK COLOR */
+.text-light p, .highlight, .a-btn:hover, .a-btn-2:hover, .about-section .a-btn-2:hover, .single-proof_gallery .pixproof-data .grid__item .a-btn-2:hover, .wpcf7 form input[type="submit"]:hover,
+form.wpcf7-form #submit:hover, .widget_search input[type="submit"], .sidebar-item select option, .sidebar-item input, .protected-page input[type="submit"]:hover, #contactform #submit:hover,
+.comments-form #submit:hover, .woocommerce-page.woocommerce-cart .woocommerce input.button:hover,
+.woocommerce-page.woocommerce-checkout .woocommerce input.button:hover, .woocommerce-page.woocommerce-cart a.button:hover,
+.woocommerce-page.woocommerce-checkout a.button:hover,
+.woocommerce-page.woocommerce a.button:hover,
+.woocommerce-page.woocommerce button.button.alt:hover,
+.woocommerce button.button.alt:hover,
+a.button.checkout:hover, .woocommerce ul.products li.product .napoli-prod-list-image .napoli-add-to-cart a:hover,
+.woocommerce-page.woocommerce .woocommerce-message a.button:hover, .single-product .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit:hover,
+.napoli_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form .form-submit input#submit:hover {
+  color: #131313;
+}
+
+.text-light .bottom-line:after, .white {
+  background-color: #131313;
+}
+
+/* BLACK BACKGROUND-COLOR */
+body, .header_top_bg, .header_trans-fixed.header_top_bg.open, #topmenu, .banner-gallery .content-wrap, .banner-list li, .about-details .content .text blockquote, .select2-drop-active, .pricing-item, .ms-section {
+  background-color: #1b1b1b;
+}
+
+/* GOLD COLOR */
+.top-banner.left_content .subtitle, .top-banner.center_content .subtitle, .about-section .subtitle, .fullwidth .gallery-item .info-content .subtitle, .portfolio.classic.big .categories, .portfolio.grid .item-portfolio-content .category, .portfolio.grid .item-portfolio-content .category a, .single-proof_gallery .pixproof-data .grid__item .entry__meta-box .meta-box__title, .team-member .info .position, .all-posts-descr h6, .post_list .post-box .text .post-box-date, .simple .post-box .text .post-box-date, .single-post .date-post, .protected-page form, .comments .person .comment-date, .about-details .content .subtitle,
+.simple-details .content .subtitle, .single-pagination > div a.content:hover, .single-pagination > div a.content i, .woocommerce .napoli_product_detail div.product p.price,
+.woocommerce .single-product div.product p.price,
+.woocommerce .napoli_product_detail div.product span.price,
+.woocommerce .single-product div.product span.price,
+.woocommerce ul.products.default li.product .price,
+.napoli_cart.shop_table ul .cart_item ul .product-price,
+.napoli_cart.shop_table ul .cart_item ul .product-subtotal,
+#topmenu .napoli_mini_cart .product_list_widget .mini_cart_item .mini-cart-data .mini_cart_item_price,
+.woocommerce table.shop_table .cart_item .product-total, .single-product .product .summary .product_meta a,
+.napoli_product_detail .product .summary .product_meta a, .single-product .product #reviews #comments .commentlist .comment .comment-text .date_publish,
+.napoli_product_detail .product #reviews #comments .commentlist .comment .comment-text .date_publish, .single-product .product .woocommerce-Reviews #review_form_wrapper .comment-form-rating label,
+.napoli_product_detail .product .woocommerce-Reviews #review_form_wrapper .comment-form-rating label, .woocommerce ul.products li.product .napoli-prod-list-image .napoli-link, .napoli-woocommerce-pagination .nav-links .nav-previous a:hover,
+.napoli-woocommerce-pagination .nav-links .nav-next a:hover, .mini-cart-wrapper .napoli-shop-icon:before, .napoli-cart-collaterals .cart_totals .shop_table ul li span, .woocommerce table.shop_table .woocommerce-Price-amount, .portfolio-single-content .portfolio-categories a, .pricing-info .subtitle, .coming-soon-descr li, .swipe-btn:hover:before, .scroll-btn:hover:before, .skill-wrapper .skill .label-skill, .skill-wrapper .skill .value, .flipto:hover:before {
+  color: #cfac7f;
+}
+
+.single-proof_gallery #pixproof_gallery .proof-photo.selected .meta__action.select-action, .woocommerce .napoli_images span.onsale,
+.woocommerce ul.products li.product .napoli-prod-list-image .onsale, .woocommerce .woocommerce-message,
+.woocommerce .woocommerce-info,
+.woocommerce .woocommerce-error, .single-product .product .summary .cart .variations .value ul li input:checked + label:before,
+.napoli_product_detail .product .summary .cart .variations .value ul li input:checked + label:before, .woocommerce ul.products li.product .napoli_product_list_name .count, .woocommerce form.login .form-row input[type="checkbox"]:checked + label.checkbox:before,
+.woocommerce form.checkout .form-row input[type="checkbox"]:checked + label.checkbox:before, .napoli-sound-btn, .iframe-video .video-content .play-button:hover {
+  background-color: #cfac7f;
+}
+
+.single-proof_gallery #pixproof_gallery .proof-photo.selected .meta__action.select-action, .single-post .single-content blockquote, .wpcf7 form input:focus,
+form.wpcf7-form input:focus,
+form.wpcf7-form textarea:focus, .protected-page input[type="password"]:focus, #contactform textarea:focus,
+#contactform input:focus,
+.comments-form textarea:focus,
+.comments-form input:focus, .single blockquote,
+.about-details .content blockquote,
+.about-section .content blockquote,
+.portfolio-single-content blockquote, .about-details .content .text blockquote, .woocommerce .woocommerce-message,
+.woocommerce .woocommerce-info,
+.woocommerce .woocommerce-error, .single-product div.product .woocommerce-tabs ul.tabs.wc-tabs li.active,
+.napoli_product_detail div.product .woocommerce-tabs ul.tabs.wc-tabs li.active, .napoli_cart.shop_table .complement-cart .coupon .input-text:focus, .woocommerce form.login .form-row input:focus,
+.woocommerce form.login .form-row textarea:focus,
+.woocommerce form.checkout .form-row input:focus,
+.woocommerce form.checkout .form-row textarea:focus,
+.woocommerce form.checkout_coupon .form-row input.input-text:focus, .select2-drop-active {
+  border-color: #cfac7f;
+}
+
+/* GREY COLOR */
+.top-banner.center_content .descr, .banner-gallery .content-wrap .description, .about-section .descr, .single-proof_gallery .pixproof-data .grid__item .entry__meta-box span, .lg .lg-sub-html .dgwt-jg-item-desc, .filter ul li, .all-posts-descr p, .simple .post-box .text .post-box-desc, .simple .post-box .text .post-box-desc p, .services .content .text, .single-post p, .contact-info, .contact-info .details a,
+.contact-info .details h6, form.wpcf7-form input,
+form.wpcf7-form textarea, #footer .copyright, #footer .social-links a, .protected-page input[type="password"], .comments .content .comment-reply-link, .comments .content .text, #contactform textarea,
+#contactform input,
+.comments-form textarea,
+.comments-form input, blockquote cite, .about-details .content .text,
+.simple-details .content .text, .titles .subtitle, .insta-box .insta-box-follow a, .single-pagination > div a.content, .woocommerce .napoli_product_detail div.product p.price del,
+.woocommerce .single-product div.product p.price del,
+.woocommerce .napoli_product_detail div.product span.price del,
+.woocommerce .single-product div.product span.price del,
+.woocommerce ul.products.default li.product .price del,
+.napoli_cart.shop_table ul .cart_item ul .product-price del,
+.napoli_cart.shop_table ul .cart_item ul .product-subtotal del,
+#topmenu .napoli_mini_cart .product_list_widget .mini_cart_item .mini-cart-data .mini_cart_item_price del,
+.woocommerce table.shop_table .cart_item .product-total del, .single-product .product .summary .woocommerce-product-rating .woocommerce-review-link,
+.napoli_product_detail .product .summary .woocommerce-product-rating .woocommerce-review-link, .single-product .product .summary .product_desc p,
+.napoli_product_detail .product .summary .product_desc p, .single-product .product .summary .cart .variations .value ul li p,
+.napoli_product_detail .product .summary .cart .variations .value ul li p, .single-product .product .summary .product_meta,
+.napoli_product_detail .product .summary .product_meta, .single-product div.product .woocommerce-tabs ul.tabs.wc-tabs li a,
+.napoli_product_detail div.product .woocommerce-tabs ul.tabs.wc-tabs li a, .single-product div.product .woocommerce-tabs .woocommerce-Tabs-panel p,
+.napoli_product_detail div.product .woocommerce-tabs .woocommerce-Tabs-panel p, .single-product .product #reviews #comments .commentlist .comment .comment-text .description,
+.napoli_product_detail .product #reviews #comments .commentlist .comment .comment-text .description, .single-product .product .woocommerce-Reviews #review_form_wrapper input,
+.napoli_product_detail .product .woocommerce-Reviews #review_form_wrapper input,
+.single-product .product .woocommerce-Reviews #review_form_wrapper textarea,
+.napoli_product_detail .product .woocommerce-Reviews #review_form_wrapper textarea, .woocommerce ul.products li.product, .woocommerce ul.products li.product .category-product a, .napoli-woocommerce-pagination .nav-links .nav-previous a,
+.napoli-woocommerce-pagination .nav-links .nav-next a, #topmenu .napoli_mini_cart .product_list_widget .mini_cart_item .mini-cart-data .mini_cart_item_quantity, .napoli_cart.shop_table ul .cart_item ul .product-name .variation dd p, .napoli_cart.shop_table .complement-cart .coupon .input-text, .napoli-cart-collaterals .cart_totals .shop_table ul li, .woocommerce form.checkout_coupon .form-row input.input-text, .woocommerce form.login .form-row input,
+.woocommerce form.login .form-row textarea,
+.woocommerce form.checkout .form-row input,
+.woocommerce form.checkout .form-row textarea, .select2-container .select2-choice, .select2-search:after, .select2-search input, .select2-results li, .woocommerce table.shop_table .cart_item .product-name .variation dd p, .woocommerce table.shop_table .cart-subtotal th,
+.woocommerce table.shop_table .order-total th, .woocommerce-checkout-review-order #payment .payment_methods.methods li, .woocommerce-checkout-review-order #payment .payment_methods.methods li label, .woocommerce-checkout-review-order #payment .payment_methods.methods li .about_paypal, .portfolio-single-content p, .portfolio-single-content .napoli-portfolio-footer-line .portfolio-client .client-value,
+.portfolio-single-content .napoli-portfolio-footer-line .portfolio-jop-type .job-type-value,
+.portfolio-single-content .napoli-portfolio-footer-line .date-value,
+.portfolio-single-content .napoli-portfolio-footer-line .social-list a, .pricing-info .pricing-list ul li, .coming-page-wrapper .subtitle {
+  color: #707070;
+}
+
+.skill-wrapper .skill .line .active-line {
+  background-color: #707070;
+}
+
+.top-banner.center_content, .woocommerce .quantity .qty, .single-product .product .summary .cart .variations .value fieldset,
+.napoli_product_detail .product .summary .cart .variations .value fieldset, .woocommerce form.checkout_coupon,
+.woocommerce form.login, .woocommerce form.checkout_coupon .form-row input.input-text, .woocommerce form.login .form-row input,
+.woocommerce form.login .form-row textarea,
+.woocommerce form.checkout .form-row input,
+.woocommerce form.checkout .form-row textarea, .select2-search input, .portfolio-single-content .napoli-portfolio-footer-line {
+  border-color: #252525;
+}
+
+/* DARK DARK BLCK */
+.about-section, .services, .single-post .single-content blockquote, .sm-wrap-post a, .contact-info, #footer, .single blockquote,
+.about-details .content blockquote,
+.about-section .content blockquote,
+.portfolio-single-content blockquote, .about-details-section, .post-nav a,
+.pages,
+.page-numbers:not(.next):not(.prev), .napoli_mini_cart, .select2-results, .woocommerce-checkout-review-order #payment div.payment_box, .coming-soon-wrap .coming-soon-descr, .swipe-btn, .scroll-btn, .skill-wrapper .skill .line, .flipto {
+  background-color: #151515;
+}
+
+.row.simple, form.wpcf7-form input,
+form.wpcf7-form textarea, .protected-page input[type="password"], #contactform textarea,
+#contactform input,
+.comments-form textarea,
+.comments-form input, .single-product .product .woocommerce-tabs .tabs.wc-tabs:before,
+.napoli_product_detail .product .woocommerce-tabs .tabs.wc-tabs:before, .single-product .product .woocommerce-Reviews #review_form_wrapper input,
+.napoli_product_detail .product .woocommerce-Reviews #review_form_wrapper input,
+.single-product .product .woocommerce-Reviews #review_form_wrapper textarea,
+.napoli_product_detail .product .woocommerce-Reviews #review_form_wrapper textarea, .napoli_cart.shop_table .heading, .napoli_cart.shop_table .complement-cart, .napoli_cart.shop_table .complement-cart .coupon .input-text, .select2-container.select2-dropdown-open.select2-drop-above .select2-choice, .woocommerce table.shop_table thead, .woocommerce table.shop_table tfoot {
+  border-color: #3a3a3a;
+}
+
+.mini-cart-wrapper .napoli-shop-icon,
+.header_trans-fixed .mini-cart-wrapper .napoli-shop-icon {
+  background-color: #202020;
+}
+
+.napoli_product_detail .product .summary .cart .variations .value ul li label:before {
+  background-color: #505050;
+}
+
+.napoli_product_detail .product .summary .cart .button:hover {
+  color: #131313 !important;
+}
+
+.woocommerce form.login .form-row label.checkbox:before,
+.woocommerce form.checkout .form-row label.checkbox:before {
+  background-color: #505050;
+}
+
+.woocommerce-checkout-review-order #payment div.payment_box:before {
+  border-bottom-color: #151515;
+}
+
+.coming-soon #coming-base {
+  fill: #151515;
+}
+
+.widget_search input[type="text"],
+.sidebar-item input {
+  background-color: transparent;
+}
+
+.sidebar-item select {
+  background-color: transparent;
+}
+
+.select2-container .select2-choice {
+  border-color: transparent;
+  border-bottom-color: #3a3a3a;
+}
+
+.fullwidth .gallery-item .info-content {
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.portfolio.classic.big .item-overlay {
+  background-color: #000000;
+}
+
+.pricing-item .mask-image .pricing_mask {
+  fill: #1b1b1b;
+}
+
+.simple::-webkit-scrollbar-thumb {
+  background-color: #cfac7f;
+}
+
+@media only screen and (max-width: 1199px) {
+  .right-menu #topmenu .napoli-top-social .social {
+    background-color: #1b1b1b;
+  }
+  .header_trans-fixed .right-menu #topmenu .napoli-top-social .social {
+    background-color: transparent;
+  }
+}
+
+@media (min-width: 768px) {
+  #topmenu ul ul {
+    background-color: #151515;
+  }
+  #topmenu > ul > li > ul:before {
+    border-bottom: 5px solid #151515;
+  }
+  #topmenu ul ul li a {
+    color: #ffffff;
+  }
+  #topmenu ul ul li.current-menu-item > a {
+    color: #cfac7f;
+  }
+  .header_trans-fixed.header_top_bg #topmenu ul ul li.current-menu-item > a {
+    color: #cfac7f;
+  }
+}
+
+@media (max-width: 767px) {
+  .header_trans-fixed.open .right-menu #topmenu .napoli-top-social .social li a {
+    color: #ffffff;
+  }
+}

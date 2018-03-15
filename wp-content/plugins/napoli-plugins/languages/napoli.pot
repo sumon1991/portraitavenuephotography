@@ -1,0 +1,1402 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Napoli Plugins\n"
+"POT-Creation-Date: 2017-06-30 17:14+0300\n"
+"PO-Revision-Date: 2017-06-30 17:14+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: napoli-plugins.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: composer/map.php:29
+msgid "Vimeo"
+msgstr ""
+
+#: composer/map.php:31
+msgid "Vimeo video player"
+msgstr ""
+
+#: composer/map.php:32 composer/map.php:225 shortcodes/napoli_banner.php:10
+#: shortcodes/napoli_banner_gallery.php:16
+msgid "Media"
+msgstr ""
+
+#: composer/map.php:36
+msgid "Vimeo Video ID"
+msgstr ""
+
+#: composer/map.php:38
+msgid "Add vimeo video id e.g 87701971"
+msgstr ""
+
+#: composer/map.php:42
+msgid "Autoplay video?"
+msgstr ""
+
+#: composer/map.php:44 composer/map.php:405 shortcodes/napoli_banner.php:26
+#: shortcodes/napoli_banner.php:32 shortcodes/napoli_banner.php:83
+#: shortcodes/napoli_porfolio_list.php:134
+#: shortcodes/napoli_porfolio_list.php:199
+#: shortcodes/napoli_porfolio_list.php:216 shortcodes/napoli_posts.php:40
+#: shortcodes/napoli_posts.php:47 shortcodes/napoli_posts.php:61
+#: shortcodes/napoli_posts.php:110
+msgid "Yes, please"
+msgstr ""
+
+#: composer/map.php:58
+msgid "About section"
+msgstr ""
+
+#: composer/map.php:60
+msgid "Section with image, text and button"
+msgstr ""
+
+#: composer/map.php:61 composer/map.php:110 composer/map.php:167
+#: composer/map.php:360 shortcodes/napoli_contacts.php:8
+#: shortcodes/napoli_custom_text_block.php:8
+#: shortcodes/napoli_gallery_left_filter.php:12
+#: shortcodes/napoli_porfolio_list.php:12 shortcodes/napoli_services.php:9
+#: shortcodes/napoli_slider.php:211 shortcodes/napoli_testimonial.php:191
+#: shortcodes/napoli_title.php:10
+msgid "Content"
+msgstr ""
+
+#: composer/map.php:65 composer/map.php:133 composer/map.php:190
+#: shortcodes/napoli_banner.php:54 shortcodes/napoli_custom_text_block.php:48
+#: shortcodes/napoli_posts.php:115 shortcodes/napoli_slider.php:186
+#: shortcodes/napoli_title.php:20
+msgid "Subtitle"
+msgstr ""
+
+#: composer/map.php:70 composer/map.php:127 composer/map.php:184
+#: composer/map.php:287 composer/map.php:308 composer/map.php:329
+#: shortcodes/napoli_audio_gallery.php:22 shortcodes/napoli_banner.php:49
+#: shortcodes/napoli_banner_gallery.php:21 shortcodes/napoli_contacts.php:18
+#: shortcodes/napoli_custom_text_block.php:36
+#: shortcodes/napoli_instagram.php:33 shortcodes/napoli_porfolio_list.php:56
+#: shortcodes/napoli_posts.php:84 shortcodes/napoli_posts.php:122
+#: shortcodes/napoli_services.php:35 shortcodes/napoli_skills.php:25
+#: shortcodes/napoli_slider.php:192 shortcodes/napoli_title.php:14
+#: shortcodes/napoli_video_gallery.php:17
+msgid "Title"
+msgstr ""
+
+#: composer/map.php:75 shortcodes/napoli_banner.php:59
+#: shortcodes/napoli_banner_gallery.php:26
+msgid "Description"
+msgstr ""
+
+#: composer/map.php:81
+msgid "Link text"
+msgstr ""
+
+#: composer/map.php:86
+msgid "Link url"
+msgstr ""
+
+#: composer/map.php:91
+msgid "Person image"
+msgstr ""
+
+#: composer/map.php:107 shortcodes/napoli_custom_text_block.php:5
+msgid "Custom text block"
+msgstr ""
+
+#: composer/map.php:109 shortcodes/napoli_custom_text_block.php:7
+msgid "Section with text, quote and button (with paddings)"
+msgstr ""
+
+#: composer/map.php:114 composer/map.php:171
+#: shortcodes/napoli_custom_text_block.php:23
+msgid "Heading for title"
+msgstr ""
+
+#: composer/map.php:139 composer/map.php:196 shortcodes/napoli_contacts.php:24
+#: shortcodes/napoli_custom_text_block.php:64 shortcodes/napoli_posts.php:129
+#: shortcodes/napoli_services.php:54 shortcodes/napoli_services.php:63
+msgid "Text"
+msgstr ""
+
+#: composer/map.php:145 composer/map.php:202 shortcodes/napoli_banner.php:64
+#: shortcodes/napoli_banner_gallery.php:36
+#: shortcodes/napoli_custom_text_block.php:70 shortcodes/napoli_posts.php:136
+msgid "Button text"
+msgstr ""
+
+#: composer/map.php:151 composer/map.php:208 shortcodes/napoli_banner.php:70
+#: shortcodes/napoli_banner_gallery.php:42
+#: shortcodes/napoli_custom_text_block.php:80
+msgid "Button URL"
+msgstr ""
+
+#: composer/map.php:164
+msgid "Simple text block"
+msgstr ""
+
+#: composer/map.php:166
+msgid "Section with text, quote and button (without paddings)"
+msgstr ""
+
+#: composer/map.php:223
+msgid "Simple slider"
+msgstr ""
+
+#: composer/map.php:226
+msgid "Image slider"
+msgstr ""
+
+#: composer/map.php:230
+msgid "Slides"
+msgstr ""
+
+#: composer/map.php:232
+msgid "Images for sliding."
+msgstr ""
+
+#: composer/map.php:245
+msgid "Map"
+msgstr ""
+
+#: composer/map.php:248
+msgid "Google maps block"
+msgstr ""
+
+#: composer/map.php:252
+msgid "Latitude"
+msgstr ""
+
+#: composer/map.php:258
+msgid "Longitude"
+msgstr ""
+
+#: composer/map.php:264
+msgid "Marker"
+msgstr ""
+
+#: composer/map.php:270
+msgid "Map zoom"
+msgstr ""
+
+#: composer/map.php:277
+msgid "Marker text"
+msgstr ""
+
+#: composer/map.php:282
+msgid "Google api key"
+msgstr ""
+
+#: composer/map.php:294 composer/map.php:315 composer/map.php:336
+msgid "First text line"
+msgstr ""
+
+#: composer/map.php:301 composer/map.php:322 composer/map.php:343
+msgid "Second text line"
+msgstr ""
+
+#: composer/map.php:357 shortcodes/napoli_porfolio_list.php:9
+msgid "Portfolio list"
+msgstr ""
+
+#: composer/map.php:359 shortcodes/napoli_porfolio_list.php:11
+msgid "List of portfolio items"
+msgstr ""
+
+#: composer/map.php:364 shortcodes/napoli_porfolio_list.php:37
+#: shortcodes/napoli_posts.php:155
+msgid "Select Categories"
+msgstr ""
+
+#: composer/map.php:366 shortcodes/napoli_porfolio_list.php:39
+msgid "Select category"
+msgstr ""
+
+#: composer/map.php:373 shortcodes/napoli_posts.php:188
+msgid ""
+"you can choose spesific categories for portfolio, default is all categories"
+msgstr ""
+
+#: composer/map.php:377 shortcodes/napoli_custom_text_block.php:12
+#: shortcodes/napoli_porfolio_list.php:16 shortcodes/napoli_posts.php:25
+#: shortcodes/napoli_services.php:14 shortcodes/napoli_testimonial.php:19
+msgid "Style"
+msgstr ""
+
+#: composer/map.php:386 shortcodes/napoli_justified_gallery.php:48
+#: shortcodes/napoli_porfolio_list.php:111
+msgid "Select hover for items"
+msgstr ""
+
+#: composer/map.php:403 shortcodes/napoli_porfolio_list.php:197
+#: shortcodes/napoli_posts.php:38
+msgid "Add category filter?"
+msgstr ""
+
+#: composer/map.php:409 shortcodes/napoli_porfolio_list.php:206
+msgid "Count items"
+msgstr ""
+
+#: cs-framework/classes/framework.class.php:176
+msgid "Success. Imported backup options."
+msgstr ""
+
+#: cs-framework/classes/framework.class.php:181
+msgid "Default options restored."
+msgstr ""
+
+#: cs-framework/classes/framework.class.php:200
+msgid "Default options restored for only this section."
+msgstr ""
+
+#: cs-framework/classes/framework.class.php:363
+msgid "Settings saved."
+msgstr ""
+
+#: cs-framework/classes/framework.class.php:364
+msgid "Save"
+msgstr ""
+
+#: cs-framework/classes/framework.class.php:364
+msgid "Saving..."
+msgstr ""
+
+#: cs-framework/classes/framework.class.php:365
+msgid "Restore"
+msgstr ""
+
+#: cs-framework/classes/framework.class.php:367
+msgid "show all options"
+msgstr ""
+
+#: cs-framework/classes/options.class.php:125
+msgid "CONFIG"
+msgstr ""
+
+#: cs-framework/classes/options.class.php:131
+msgid "USAGE"
+msgstr ""
+
+#: cs-framework/classes/options.class.php:137
+msgid "VALUE"
+msgstr ""
+
+#: cs-framework/classes/options.class.php:213
+#, php-format
+msgid "You are editing language: ( <strong>%s</strong> )"
+msgstr ""
+
+#: cs-framework/classes/shortcode.class.php:82
+#: cs-framework/classes/shortcode.class.php:90
+#: cs-framework/fields/textarea/textarea.php:27
+msgid "Add Shortcode"
+msgstr ""
+
+#: cs-framework/classes/shortcode.class.php:92
+msgid "Select a shortcode"
+msgstr ""
+
+#: cs-framework/classes/shortcode.class.php:108
+msgid "Insert Shortcode"
+msgstr ""
+
+#: cs-framework/config/framework.config.php:321
+msgid "H1"
+msgstr ""
+
+#: cs-framework/config/framework.config.php:322
+msgid "H2"
+msgstr ""
+
+#: cs-framework/config/framework.config.php:323
+msgid "H3"
+msgstr ""
+
+#: cs-framework/config/framework.config.php:324
+msgid "H4"
+msgstr ""
+
+#: cs-framework/config/framework.config.php:325
+msgid "H5"
+msgstr ""
+
+#: cs-framework/config/framework.config.php:326
+msgid "H6"
+msgstr ""
+
+#: cs-framework/config/framework.config.php:327
+msgid "Paragraph"
+msgstr ""
+
+#: cs-framework/fields/background/background.php:31
+#: cs-framework/fields/background/background.php:32
+#: cs-framework/fields/upload/upload.php:23
+#: cs-framework/fields/upload/upload.php:24
+msgid "Upload"
+msgstr ""
+
+#: cs-framework/fields/background/background.php:33
+#: cs-framework/fields/upload/upload.php:25
+msgid "Use Image"
+msgstr ""
+
+#: cs-framework/fields/backup/backup.php:21
+msgid "Import a Backup"
+msgstr ""
+
+#: cs-framework/fields/backup/backup.php:22
+msgid "copy-paste your backup string here"
+msgstr ""
+
+#: cs-framework/fields/backup/backup.php:27
+msgid "Export and Download Backup"
+msgstr ""
+
+#: cs-framework/fields/backup/backup.php:28
+msgid "or"
+msgstr ""
+
+#: cs-framework/fields/backup/backup.php:29
+msgid "!!! Reset All Options !!!"
+msgstr ""
+
+#: cs-framework/fields/backup/backup.php:30
+msgid "Please be sure for reset all of framework options."
+msgstr ""
+
+#: cs-framework/fields/gallery/gallery.php:21
+msgid "Add Gallery"
+msgstr ""
+
+#: cs-framework/fields/gallery/gallery.php:22
+msgid "Edit Gallery"
+msgstr ""
+
+#: cs-framework/fields/gallery/gallery.php:23
+msgid "Clear"
+msgstr ""
+
+#: cs-framework/fields/group/group.php:21
+msgid "Adding"
+msgstr ""
+
+#: cs-framework/fields/group/group.php:43
+#: cs-framework/fields/group/group.php:75
+msgid "Remove"
+msgstr ""
+
+#: cs-framework/fields/icon/icon.php:25 cs-framework/functions/actions.php:47
+msgid "Add Icon"
+msgstr ""
+
+#: cs-framework/fields/icon/icon.php:26
+msgid "Remove Icon"
+msgstr ""
+
+#: cs-framework/fields/image/image.php:22
+msgid "Add Image"
+msgstr ""
+
+#: cs-framework/fields/sorter/sorter.php:24
+msgid "Enabled Modules"
+msgstr ""
+
+#: cs-framework/fields/sorter/sorter.php:25
+msgid "Disabled Modules"
+msgstr ""
+
+#: cs-framework/fields/switcher/switcher.php:20
+msgid "on"
+msgstr ""
+
+#: cs-framework/fields/switcher/switcher.php:20
+msgid "off"
+msgstr ""
+
+#: cs-framework/fields/typography/typography.php:74
+msgid "Web Safe Fonts"
+msgstr ""
+
+#: cs-framework/fields/typography/typography.php:80
+msgid "Google Fonts"
+msgstr ""
+
+#: cs-framework/fields/typography/typography.php:108
+msgid "Error! Can not load json file."
+msgstr ""
+
+#: cs-framework/functions/actions.php:48
+msgid "Search a Icon..."
+msgstr ""
+
+#: cs-framework/functions/actions.php:49
+msgid "Loading..."
+msgstr ""
+
+#: cs-framework/functions/helpers.php:48
+msgid "This field class is not available!"
+msgstr ""
+
+#: cs-framework/functions/validate.php:14
+msgid "Please write a valid email address!"
+msgstr ""
+
+#: cs-framework/functions/validate.php:33
+msgid "Please write a numeric data!"
+msgstr ""
+
+#: cs-framework/functions/validate.php:51
+msgid "Fatal Error! This field is required!"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/admin-menus.php:23
+msgid "Justified Gallery"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings-api.php:392
+msgid "Choose File"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:76
+msgid "Basic"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:92
+msgid "Show images description"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:95
+msgid "Show"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:96
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:119
+msgid "Hide"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:102
+msgid "Use lightbox"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:105
+msgid "No"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:106
+#: shortcodes/napoli_full_slider.php:38
+#: shortcodes/napoli_justified_gallery.php:82
+#: shortcodes/napoli_justified_gallery.php:145
+#: shortcodes/napoli_justified_gallery.php:153
+#: shortcodes/napoli_justified_gallery.php:187
+#: shortcodes/napoli_justified_gallery.php:196
+#: shortcodes/napoli_justified_gallery.php:212
+#: shortcodes/napoli_justified_gallery.php:243
+#: shortcodes/napoli_porfolio_list.php:143
+#: shortcodes/napoli_splited_slider.php:22
+#: shortcodes/napoli_splited_slider.php:45
+#: shortcodes/napoli_splited_slider.php:51
+#: shortcodes/napoli_video_banner.php:26 shortcodes/napoli_video_banner.php:33
+#: shortcodes/napoli_video_banner.php:40 shortcodes/napoli_video_gallery.php:88
+#: shortcodes/napoli_video_gallery.php:99
+#: shortcodes/napoli_video_gallery.php:110
+msgid "Yes"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:112
+msgid "Last row"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:115
+msgid "Align left"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:116
+msgid "Align center"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:117
+msgid "Align right"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:118
+msgid "Justify"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:121
+msgid ""
+"Decide how to position the last row of images. Default the last row images "
+"are aligned to the left. You can also hide the row if it can't be justified "
+"and aligned to the center or to the right"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:126
+msgid "Space between images"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:134
+msgid "Row height"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:137
+msgid "The preferred height of rows."
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:142
+msgid "Max row height"
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/settings/class-settings.php:145
+msgid "Type <code>-1</code> to remove the limit of the maximum row height."
+msgstr ""
+
+#: lib/napoli-justified-gallery/includes/admin/views/settings.php:9
+msgid "Justified Gallery Settings"
+msgstr ""
+
+#: lib/wp-updates-plugin.php:87
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: lib/wp-updates-plugin.php:91
+msgid "An unknown error occurred"
+msgstr ""
+
+#: params/file_upload/file_upload.php:41
+msgid "Upload File"
+msgstr ""
+
+#: shortcodes/napoli_audio_gallery.php:12
+msgid "Sound file"
+msgstr ""
+
+#: shortcodes/napoli_audio_gallery.php:17 shortcodes/napoli_video_banner.php:12
+#: shortcodes/napoli_video_gallery.php:12
+msgid "Preview Image"
+msgstr ""
+
+#: shortcodes/napoli_audio_gallery.php:28
+#: shortcodes/napoli_facebook_twitter.php:17
+#: shortcodes/napoli_full_slider.php:78 shortcodes/napoli_instagram.php:39
+#: shortcodes/napoli_justified_gallery.php:250
+#: shortcodes/napoli_ken_burns.php:35 shortcodes/napoli_skills.php:40
+#: shortcodes/napoli_slider.php:39 shortcodes/napoli_testimonial.php:55
+#: shortcodes/napoli_video_banner.php:60
+#: shortcodes/napoli_video_gallery.php:142
+msgid "Extra class name"
+msgstr ""
+
+#: shortcodes/napoli_audio_gallery.php:30
+#: shortcodes/napoli_facebook_twitter.php:19
+#: shortcodes/napoli_full_slider.php:80 shortcodes/napoli_instagram.php:41
+#: shortcodes/napoli_justified_gallery.php:253
+#: shortcodes/napoli_ken_burns.php:37 shortcodes/napoli_skills.php:42
+#: shortcodes/napoli_slider.php:41 shortcodes/napoli_testimonial.php:57
+#: shortcodes/napoli_video_banner.php:62
+#: shortcodes/napoli_video_gallery.php:144
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: shortcodes/napoli_audio_gallery.php:35
+#: shortcodes/napoli_facebook_twitter.php:24
+#: shortcodes/napoli_full_slider.php:85 shortcodes/napoli_instagram.php:47
+#: shortcodes/napoli_justified_gallery.php:258
+#: shortcodes/napoli_ken_burns.php:42 shortcodes/napoli_skills.php:47
+#: shortcodes/napoli_slider.php:46 shortcodes/napoli_testimonial.php:62
+#: shortcodes/napoli_testimonial.php:204 shortcodes/napoli_video_banner.php:67
+#: shortcodes/napoli_video_gallery.php:149
+msgid "CSS box"
+msgstr ""
+
+#: shortcodes/napoli_audio_gallery.php:37
+#: shortcodes/napoli_facebook_twitter.php:26
+#: shortcodes/napoli_full_slider.php:87 shortcodes/napoli_instagram.php:49
+#: shortcodes/napoli_justified_gallery.php:260
+#: shortcodes/napoli_ken_burns.php:44 shortcodes/napoli_skills.php:49
+#: shortcodes/napoli_slider.php:48 shortcodes/napoli_testimonial.php:64
+#: shortcodes/napoli_testimonial.php:206 shortcodes/napoli_video_banner.php:69
+#: shortcodes/napoli_video_gallery.php:151
+msgid "Design options"
+msgstr ""
+
+#: shortcodes/napoli_banner.php:7
+msgid "Image banner"
+msgstr ""
+
+#: shortcodes/napoli_banner.php:9
+msgid "Image banner with text and button"
+msgstr ""
+
+#: shortcodes/napoli_banner.php:14
+msgid "Style Banner"
+msgstr ""
+
+#: shortcodes/napoli_banner.php:24
+msgid "Full height?"
+msgstr ""
+
+#: shortcodes/napoli_banner.php:30
+msgid "Top align text?"
+msgstr ""
+
+#: shortcodes/napoli_banner.php:36
+msgid "Heading"
+msgstr ""
+
+#: shortcodes/napoli_banner.php:76 shortcodes/napoli_services.php:29
+#: shortcodes/napoli_testimonial.php:28
+msgid "Background image"
+msgstr ""
+
+#: shortcodes/napoli_banner.php:81
+msgid "Show overlay?"
+msgstr ""
+
+#: shortcodes/napoli_banner_gallery.php:14
+msgid "Banner with gallery"
+msgstr ""
+
+#: shortcodes/napoli_banner_gallery.php:17
+msgid "Banner with gallery, text and button"
+msgstr ""
+
+#: shortcodes/napoli_banner_gallery.php:31 shortcodes/napoli_full_slider.php:30
+#: shortcodes/napoli_ken_burns.php:10
+msgid "Images for banner"
+msgstr ""
+
+#: shortcodes/napoli_coming_soon.php:7
+msgid "Coming soon"
+msgstr ""
+
+#: shortcodes/napoli_contacts.php:5
+msgid "Contacts"
+msgstr ""
+
+#: shortcodes/napoli_contacts.php:7
+msgid "Contacts info"
+msgstr ""
+
+#: shortcodes/napoli_contacts.php:12
+msgid "Label"
+msgstr ""
+
+#: shortcodes/napoli_custom_text_block.php:42
+msgid "Title 2"
+msgstr ""
+
+#: shortcodes/napoli_custom_text_block.php:54
+msgid "Label Text"
+msgstr ""
+
+#: shortcodes/napoli_facebook_twitter.php:30
+msgid "Social Recent Posts"
+msgstr ""
+
+#: shortcodes/napoli_facebook_twitter.php:34
+msgid "Recent Posts from Facebook and Twitter"
+msgstr ""
+
+#: shortcodes/napoli_facebook_twitter.php:38
+msgid "Facebook Page Id or Slug"
+msgstr ""
+
+#: shortcodes/napoli_facebook_twitter.php:40
+msgid "Insert id or slug public facebook page. (default from Theme Options)"
+msgstr ""
+
+#: shortcodes/napoli_facebook_twitter.php:46
+msgid "Twiiter Page Id or Slug"
+msgstr ""
+
+#: shortcodes/napoli_facebook_twitter.php:53
+msgid "Count Symbol Twitt"
+msgstr ""
+
+#: shortcodes/napoli_facebook_twitter.php:61
+msgid "Count Posts"
+msgstr ""
+
+#: shortcodes/napoli_facebook_twitter.php:311
+msgid "NO DATA Facebook or Twitter"
+msgstr ""
+
+#: shortcodes/napoli_facebook_twitter.php:312
+msgid "Check Options Themes"
+msgstr ""
+
+#: shortcodes/napoli_facebook_twitter.php:325
+msgid "Not Found Facebook Page Id or Slug"
+msgstr ""
+
+#: shortcodes/napoli_facebook_twitter.php:328
+msgid "Not Found Twitter Page Id or Slug"
+msgstr ""
+
+#: shortcodes/napoli_full_slider.php:5
+msgid "Fullscreen Slider"
+msgstr ""
+
+#: shortcodes/napoli_full_slider.php:10
+msgid "Type"
+msgstr ""
+
+#: shortcodes/napoli_full_slider.php:13
+msgid "Full Screen"
+msgstr ""
+
+#: shortcodes/napoli_full_slider.php:14
+msgid "Full Screen with content"
+msgstr ""
+
+#: shortcodes/napoli_full_slider.php:15
+msgid "Zoom"
+msgstr ""
+
+#: shortcodes/napoli_full_slider.php:32
+msgid ""
+"For Full Screen with content style you can add text to images for \"alt\" "
+"and \"description\" like title and subtitle."
+msgstr ""
+
+#: shortcodes/napoli_full_slider.php:36
+msgid "Disable window scroll"
+msgstr ""
+
+#: shortcodes/napoli_full_slider.php:40 shortcodes/napoli_full_slider.php:48
+#: shortcodes/napoli_full_slider.php:56 shortcodes/napoli_full_slider.php:63
+#: shortcodes/napoli_slider.php:27 shortcodes/napoli_slider.php:35
+msgid "Animation"
+msgstr ""
+
+#: shortcodes/napoli_full_slider.php:44 shortcodes/napoli_porfolio_list.php:75
+#: shortcodes/napoli_video_banner.php:24
+msgid "Autoplay"
+msgstr ""
+
+#: shortcodes/napoli_full_slider.php:45 shortcodes/napoli_porfolio_list.php:76
+msgid "0 - off autoplay. (milliseconds)"
+msgstr ""
+
+#: shortcodes/napoli_full_slider.php:52 shortcodes/napoli_porfolio_list.php:83
+#: shortcodes/napoli_slider.php:31 shortcodes/napoli_testimonial.php:41
+msgid "Speed (milliseconds)"
+msgstr ""
+
+#: shortcodes/napoli_full_slider.php:53 shortcodes/napoli_porfolio_list.php:84
+#: shortcodes/napoli_slider.php:32 shortcodes/napoli_testimonial.php:42
+msgid "Speed Animation. Default 1000 milliseconds"
+msgstr ""
+
+#: shortcodes/napoli_full_slider.php:60 shortcodes/napoli_porfolio_list.php:91
+#: shortcodes/napoli_testimonial.php:48
+msgid "Loop"
+msgstr ""
+
+#: shortcodes/napoli_full_slider.php:67 shortcodes/napoli_ken_burns.php:24
+msgid "Sound Background"
+msgstr ""
+
+#: shortcodes/napoli_full_slider.php:72 shortcodes/napoli_ken_burns.php:29
+msgid "Sound Autoplay"
+msgstr ""
+
+#: shortcodes/napoli_gallery_left_filter.php:9
+msgid "Gallery with left filter"
+msgstr ""
+
+#: shortcodes/napoli_gallery_left_filter.php:11
+msgid "Albums List filter with images"
+msgstr ""
+
+#: shortcodes/napoli_gallery_left_filter.php:16
+#: shortcodes/napoli_gallery_left_filter.php:18
+msgid "Select Albums"
+msgstr ""
+
+#: shortcodes/napoli_gallery_left_filter.php:28
+msgid "Style for gallery"
+msgstr ""
+
+#: shortcodes/napoli_gallery_left_filter.php:77
+msgid "All"
+msgstr ""
+
+#: shortcodes/napoli_gallery_left_filter.php:169
+#: shortcodes/napoli_justified_gallery.php:530
+#: shortcodes/napoli_justified_gallery.php:694
+msgid "Camera"
+msgstr ""
+
+#: shortcodes/napoli_gallery_left_filter.php:178
+#: shortcodes/napoli_justified_gallery.php:538
+#: shortcodes/napoli_justified_gallery.php:702
+msgid "Focal lenght"
+msgstr ""
+
+#: shortcodes/napoli_gallery_left_filter.php:180
+#: shortcodes/napoli_justified_gallery.php:540
+#: shortcodes/napoli_justified_gallery.php:704
+#: shortcodes/napoli_porfolio_list.php:671
+msgid "mm"
+msgstr ""
+
+#: shortcodes/napoli_gallery_left_filter.php:185
+#: shortcodes/napoli_justified_gallery.php:545
+#: shortcodes/napoli_justified_gallery.php:709
+msgid "Aperture"
+msgstr ""
+
+#: shortcodes/napoli_gallery_left_filter.php:192
+#: shortcodes/napoli_justified_gallery.php:552
+#: shortcodes/napoli_justified_gallery.php:716
+msgid "Exposure time"
+msgstr ""
+
+#: shortcodes/napoli_gallery_left_filter.php:200
+#: shortcodes/napoli_justified_gallery.php:560
+#: shortcodes/napoli_justified_gallery.php:724
+msgid "ISO"
+msgstr ""
+
+#: shortcodes/napoli_instagram.php:16
+msgid "Instagram"
+msgstr ""
+
+#: shortcodes/napoli_instagram.php:21
+msgid "Username"
+msgstr ""
+
+#: shortcodes/napoli_instagram.php:27
+msgid "Count images"
+msgstr ""
+
+#: shortcodes/napoli_justified_gallery.php:4
+msgid "Napoli Gallery"
+msgstr ""
+
+#: shortcodes/napoli_justified_gallery.php:8
+msgid "Simple Gallery and For Justified Gallery Plugins"
+msgstr ""
+
+#: shortcodes/napoli_justified_gallery.php:13 shortcodes/napoli_team.php:13
+msgid "Type Gallery"
+msgstr ""
+
+#: shortcodes/napoli_justified_gallery.php:80
+msgid "Hide hover on images"
+msgstr ""
+
+#: shortcodes/napoli_justified_gallery.php:112
+#: shortcodes/napoli_justified_gallery.php:120
+#: shortcodes/napoli_justified_gallery.php:128
+#: shortcodes/napoli_justified_gallery.php:147
+#: shortcodes/napoli_justified_gallery.php:156
+#: shortcodes/napoli_justified_gallery.php:167
+#: shortcodes/napoli_justified_gallery.php:174
+#: shortcodes/napoli_justified_gallery.php:181
+#: shortcodes/napoli_justified_gallery.php:190
+#: shortcodes/napoli_justified_gallery.php:199
+#: shortcodes/napoli_justified_gallery.php:206
+#: shortcodes/napoli_justified_gallery.php:215
+#: shortcodes/napoli_justified_gallery.php:225
+#: shortcodes/napoli_justified_gallery.php:236
+#: shortcodes/napoli_justified_gallery.php:246
+msgid "Configuration"
+msgstr ""
+
+#: shortcodes/napoli_justified_gallery.php:381
+msgid "Hide images"
+msgstr ""
+
+#: shortcodes/napoli_justified_gallery.php:382
+msgid "Show images"
+msgstr ""
+
+#: shortcodes/napoli_ken_burns.php:5
+msgid "KenBurns Slider"
+msgstr ""
+
+#: shortcodes/napoli_ken_burns.php:15
+msgid "Style slider"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:49 shortcodes/napoli_posts.php:77
+msgid "Order by"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:53 shortcodes/napoli_posts.php:81
+msgid "Date"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:54 shortcodes/napoli_posts.php:82
+msgid "ID"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:55 shortcodes/napoli_posts.php:83
+msgid "Author"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:57 shortcodes/napoli_posts.php:85
+msgid "Modified"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:58 shortcodes/napoli_posts.php:86
+msgid "Random"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:59 shortcodes/napoli_posts.php:87
+msgid "Comment count"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:61 shortcodes/napoli_posts.php:90
+#, php-format
+msgid "Select how to sort retrieved posts. More at %s."
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:65 shortcodes/napoli_posts.php:94
+msgid "Sort order"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:68 shortcodes/napoli_posts.php:97
+msgid "Descending"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:69 shortcodes/napoli_posts.php:98
+msgid "Ascending"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:71 shortcodes/napoli_posts.php:100
+#, php-format
+msgid "Select ascending or descending order. More at %s."
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:98
+msgid "Select count of columns"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:132
+msgid "Reverse hover"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:141
+msgid "Show Share Icons"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:149
+msgid "Social Icons"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:153 shortcodes/napoli_team.php:44
+msgid "Facebook"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:158 shortcodes/napoli_team.php:60
+msgid "Pinterest"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:163 shortcodes/napoli_team.php:68
+msgid "Twitter"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:168
+msgid "Linkedin"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:173
+msgid "Mail"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:181 shortcodes/napoli_services.php:40
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:187
+msgid "Link"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:214 shortcodes/napoli_posts.php:59
+msgid "Enable pager"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:290 shortcodes/napoli_posts.php:344
+msgid "all"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:598
+msgid "LOOK ALBUM"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:734
+msgid "Previous"
+msgstr ""
+
+#: shortcodes/napoli_porfolio_list.php:735
+msgid "Next"
+msgstr ""
+
+#: shortcodes/napoli_posts.php:28
+msgid "Default"
+msgstr ""
+
+#: shortcodes/napoli_posts.php:29
+msgid "Post List"
+msgstr ""
+
+#: shortcodes/napoli_posts.php:30
+msgid "Post List & Text preview"
+msgstr ""
+
+#: shortcodes/napoli_posts.php:31
+msgid "Simple"
+msgstr ""
+
+#: shortcodes/napoli_posts.php:32
+msgid "Grid"
+msgstr ""
+
+#: shortcodes/napoli_posts.php:33
+msgid "Big Gap"
+msgstr ""
+
+#: shortcodes/napoli_posts.php:45
+msgid "Add share buttons?"
+msgstr ""
+
+#: shortcodes/napoli_posts.php:52
+msgid "Post types"
+msgstr ""
+
+#: shortcodes/napoli_posts.php:55
+msgid "Select source for slider."
+msgstr ""
+
+#: shortcodes/napoli_posts.php:65
+msgid "Count posts"
+msgstr ""
+
+#: shortcodes/napoli_posts.php:71 shortcodes/napoli_team.php:23
+msgid "Custom Height"
+msgstr ""
+
+#: shortcodes/napoli_posts.php:88
+msgid "Menu order"
+msgstr ""
+
+#: shortcodes/napoli_posts.php:108
+msgid "Add small banner to this section?"
+msgstr ""
+
+#: shortcodes/napoli_posts.php:143
+msgid "Button url"
+msgstr ""
+
+#: shortcodes/napoli_posts.php:157
+msgid "Select Terms"
+msgstr ""
+
+#: shortcodes/napoli_posts.php:197
+msgid "Posts List"
+msgstr ""
+
+#: shortcodes/napoli_posts.php:199
+msgid "This outputs list shows any of the post-type items"
+msgstr ""
+
+#: shortcodes/napoli_posts.php:536
+msgid "Previous page"
+msgstr ""
+
+#: shortcodes/napoli_posts.php:537
+msgid "Next page"
+msgstr ""
+
+#: shortcodes/napoli_pricing.php:5
+msgid "Pricing"
+msgstr ""
+
+#: shortcodes/napoli_services.php:7
+msgid "Services"
+msgstr ""
+
+#: shortcodes/napoli_services.php:10
+msgid "Block with image and text"
+msgstr ""
+
+#: shortcodes/napoli_services.php:23 shortcodes/napoli_slider.php:218
+msgid "Button"
+msgstr ""
+
+#: shortcodes/napoli_services.php:45
+msgid "Editor type"
+msgstr ""
+
+#: shortcodes/napoli_skills.php:5
+msgid "Skills"
+msgstr ""
+
+#: shortcodes/napoli_skills.php:9
+msgid "Image, title, position, social links"
+msgstr ""
+
+#: shortcodes/napoli_skills.php:13
+msgid "Main title"
+msgstr ""
+
+#: shortcodes/napoli_skills.php:18
+msgid "Values"
+msgstr ""
+
+#: shortcodes/napoli_skills.php:20
+msgid "Enter values for skill - title and number."
+msgstr ""
+
+#: shortcodes/napoli_skills.php:27
+msgid "Add title for your skill."
+msgstr ""
+
+#: shortcodes/napoli_skills.php:31
+msgid "Number"
+msgstr ""
+
+#: shortcodes/napoli_skills.php:33
+msgid "Only number."
+msgstr ""
+
+#: shortcodes/napoli_slider.php:5
+msgid "Banner Slider"
+msgstr ""
+
+#: shortcodes/napoli_slider.php:14
+msgid "Type Slider"
+msgstr ""
+
+#: shortcodes/napoli_slider.php:17
+msgid "Vertical slider (default)"
+msgstr ""
+
+#: shortcodes/napoli_slider.php:18
+msgid "Horizontal slider"
+msgstr ""
+
+#: shortcodes/napoli_slider.php:23 shortcodes/napoli_testimonial.php:34
+msgid "Autoplay (sec)"
+msgstr ""
+
+#: shortcodes/napoli_slider.php:24 shortcodes/napoli_testimonial.php:35
+msgid "0 - off autoplay."
+msgstr ""
+
+#: shortcodes/napoli_slider.php:181
+msgid "Background Image"
+msgstr ""
+
+#: shortcodes/napoli_slider.php:198
+msgid "Size title"
+msgstr ""
+
+#: shortcodes/napoli_social/facebook-posts.php:53
+#: shortcodes/napoli_social/facebook-posts.php:172
+msgid "Facebook error:"
+msgstr ""
+
+#: shortcodes/napoli_social/facebook-posts.php:213
+msgid "Connection error:"
+msgstr ""
+
+#: shortcodes/napoli_splited_slider.php:5
+msgid "Napoli Splited Slider"
+msgstr ""
+
+#: shortcodes/napoli_splited_slider.php:8
+msgid "Splited slider"
+msgstr ""
+
+#: shortcodes/napoli_team.php:7
+msgid "Team"
+msgstr ""
+
+#: shortcodes/napoli_team.php:9
+msgid "My team"
+msgstr ""
+
+#: shortcodes/napoli_team.php:29
+msgid "Name"
+msgstr ""
+
+#: shortcodes/napoli_team.php:34
+msgid "Position"
+msgstr ""
+
+#: shortcodes/napoli_team.php:39
+msgid "Photo"
+msgstr ""
+
+#: shortcodes/napoli_team.php:47
+msgid "Enter facebook social link url."
+msgstr ""
+
+#: shortcodes/napoli_team.php:52
+msgid "Dribbble"
+msgstr ""
+
+#: shortcodes/napoli_team.php:55
+msgid "Enter dribbble social link url."
+msgstr ""
+
+#: shortcodes/napoli_team.php:63
+msgid "Enter pinterest social link url."
+msgstr ""
+
+#: shortcodes/napoli_team.php:71
+msgid "Enter twitter social link url."
+msgstr ""
+
+#: shortcodes/napoli_testimonial.php:10
+msgid "Testimonial"
+msgstr ""
+
+#: shortcodes/napoli_testimonial.php:180
+msgid "Image/Logo"
+msgstr ""
+
+#: shortcodes/napoli_testimonial.php:185
+msgid "Image/Logo url"
+msgstr ""
+
+#: shortcodes/napoli_testimonial.php:198
+msgid "Author's name"
+msgstr ""
+
+#: shortcodes/napoli_title.php:7
+msgid "Title and subtitle"
+msgstr ""
+
+#: shortcodes/napoli_title.php:9
+msgid "Simple title and subtitle"
+msgstr ""
+
+#: shortcodes/napoli_video_banner.php:17 shortcodes/napoli_video_gallery.php:52
+msgid "Video link"
+msgstr ""
+
+#: shortcodes/napoli_video_banner.php:18 shortcodes/napoli_video_gallery.php:53
+msgid "Insert your video link"
+msgstr ""
+
+#: shortcodes/napoli_video_banner.php:31 shortcodes/napoli_video_gallery.php:97
+msgid "Mute sound"
+msgstr ""
+
+#: shortcodes/napoli_video_banner.php:38
+#: shortcodes/napoli_video_gallery.php:108
+msgid "Showinfo"
+msgstr ""
+
+#: shortcodes/napoli_video_banner.php:46
+#: shortcodes/napoli_video_gallery.php:120
+msgid "Video begins from (sec)"
+msgstr ""
+
+#: shortcodes/napoli_video_banner.php:53
+#: shortcodes/napoli_video_gallery.php:131
+msgid "Video ends at (sec)"
+msgstr ""
+
+#: shortcodes/napoli_video_gallery.php:23
+msgid "Start play"
+msgstr ""
+
+#: shortcodes/napoli_video_gallery.php:32
+msgid "Video services"
+msgstr ""
+
+#: shortcodes/napoli_video_gallery.php:42
+msgid "Insert iframe"
+msgstr ""
+
+#: shortcodes/napoli_video_gallery.php:86
+msgid "Controls"
+msgstr ""
+
+#: shortcodes/vc_column.php:15 shortcodes/vc_row.php:22
+msgid "Desctop margin top"
+msgstr ""
+
+#: shortcodes/vc_column.php:22 shortcodes/vc_row.php:29
+msgid "Desctop margin bottom"
+msgstr ""
+
+#: shortcodes/vc_column.php:29 shortcodes/vc_row.php:36
+msgid "Tablets margin top"
+msgstr ""
+
+#: shortcodes/vc_column.php:36 shortcodes/vc_row.php:43
+msgid "Tablets margin bottom"
+msgstr ""
+
+#: shortcodes/vc_column.php:43 shortcodes/vc_row.php:50
+msgid "Mobile margin top"
+msgstr ""
+
+#: shortcodes/vc_column.php:50 shortcodes/vc_row.php:57
+msgid "Mobile margin bottom"
+msgstr ""
+
+#: shortcodes/vc_column.php:57 shortcodes/vc_row.php:64
+msgid "Desctop padding top"
+msgstr ""
+
+#: shortcodes/vc_column.php:64 shortcodes/vc_row.php:71
+msgid "Desctop padding bottom"
+msgstr ""
+
+#: shortcodes/vc_column.php:71 shortcodes/vc_row.php:78
+msgid "Tablets padding top"
+msgstr ""
+
+#: shortcodes/vc_column.php:78 shortcodes/vc_row.php:85
+msgid "Tablets padding bottom"
+msgstr ""
+
+#: shortcodes/vc_column.php:85 shortcodes/vc_row.php:92
+msgid "Mobile padding top"
+msgstr ""
+
+#: shortcodes/vc_column.php:92 shortcodes/vc_row.php:99
+msgid "Mobile padding bottom"
+msgstr ""
+
+#: shortcodes/vc_row.php:16
+msgid "Enable Ovarlay"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Napoli Plugins"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://foxthemes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Includes Portfolio Custom Post Type and Visual Composer Shortcodes"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "FOXTHEMES"
+msgstr ""

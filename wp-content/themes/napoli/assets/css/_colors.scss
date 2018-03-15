@@ -1,0 +1,146 @@
+
+/* WHITE COLOR */
+
+%base-color {
+ 	color: #fff;
+}
+%base-bg-color {
+ 	background-color: #fff;
+}
+%base-border-color {
+	border-color: #fff;
+}
+
+/* LIGHT WHITE COLOR */
+%base-light-bottom-color {
+	border-color: rgba(255, 255, 255, 0.5);
+}
+
+
+/* DARK COLOR */
+%font-color {
+	color: #131313;
+}
+%font-bg-color {
+	background-color: #131313;
+}
+
+
+/* BLACK BACKGROUND-COLOR */
+%main-bg-color {
+	background-color: #1b1b1b;
+}
+
+
+/* GOLD COLOR */
+%subtitle-color {
+	color: #cfac7f;
+}
+%subtitle-bg-color {
+	background-color: #cfac7f;
+}
+%subtitle-border-color {
+	border-color: #cfac7f;
+}
+
+
+/* GREY COLOR */
+%desc-color {
+	color: #707070;
+}
+%desc-bg-color {
+	background-color: #707070;
+}
+%table-border-color {
+	border-color: #252525;
+}
+
+/* DARK DARK BLCK */
+%dark-black-bg-color {
+	background-color: #151515;
+}
+
+%form-border-color {
+	border-color: #3a3a3a;
+}
+
+
+
+.wpcf7 form input[type="submit"], form.wpcf7-form #submit{
+	color: #fff;
+}
+
+.mini-cart-wrapper .napoli-shop-icon,
+.header_trans-fixed .mini-cart-wrapper .napoli-shop-icon {
+	background-color: #202020;
+}
+.napoli_product_detail .product .summary .cart .variations .value ul li label:before {
+	background-color: #505050;
+}
+.napoli_product_detail .product .summary .cart .button:hover {
+	color: #131313 !important;
+}
+.woocommerce form.login .form-row label.checkbox:before,
+.woocommerce form.checkout .form-row label.checkbox:before {
+	background-color: #505050;
+}
+.woocommerce-checkout-review-order #payment div.payment_box:before {
+	border-bottom-color: #151515;
+}
+.coming-soon #coming-base {
+	fill: #151515;
+}
+.widget_search input[type="text"],
+.sidebar-item input {
+	background-color: transparent;
+}
+.sidebar-item select {
+	background-color: transparent;
+}
+.select2-container .select2-choice {
+	border-color: transparent;
+	border-bottom-color: #3a3a3a;
+}
+.fullwidth .gallery-item .info-content {
+	background-color: rgba(0, 0, 0, 0.9);
+}
+.portfolio.classic.big .item-overlay {
+	background-color: #000000;
+}
+.pricing-item .mask-image .pricing_mask {
+  fill: #1b1b1b;
+}
+.simple::-webkit-scrollbar-thumb {
+    background-color: #cfac7f;
+}
+@media only screen and (max-width: 1199px) {
+	.right-menu #topmenu .napoli-top-social .social {
+		background-color: #1b1b1b;
+	}
+	.header_trans-fixed .right-menu #topmenu .napoli-top-social .social {
+		background-color: transparent;
+	}
+}
+@media (min-width: 768px) {
+  #topmenu ul ul {
+    background-color: #151515;
+  }
+  #topmenu > ul > li > ul:before {
+  	border-bottom: 5px solid #151515;
+  }
+  #topmenu ul ul li a {
+  	color: #ffffff;
+  }
+  #topmenu ul ul li.current-menu-item > a {
+  	color: #cfac7f;
+  }
+  .header_trans-fixed.header_top_bg #topmenu ul ul li.current-menu-item > a {
+  	color: #cfac7f;
+  }
+}
+@media (max-width: 767px) {
+	.header_trans-fixed.open .right-menu #topmenu .napoli-top-social .social li a {
+		color: #ffffff;
+	}
+}
+
